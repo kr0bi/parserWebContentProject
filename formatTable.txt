@@ -1,0 +1,17 @@
+table
+    tbody
+        tr
+            td
+                table
+                    tbody
+                        tr                          } inizio riga persona | voto
+                            td                      } colonna che contiene persona
+                                p                   }
+                                    p font          }
+                                        p font b    }   dove viene contenuta la persona
+                            td                      } colonna che contiene voto
+                                p                   }
+                                    p font          }   dove viene contenuto il voto
+                                    
+                        tr
+                            ...
